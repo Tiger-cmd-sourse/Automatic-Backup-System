@@ -4,6 +4,8 @@ In today’s digital world, data is incredibly valuable, and ensuring its securi
 
 Define the Source path and Destination path in the bash script
 
+Add username and password of the server you want to backup
+
 Copy the script and save it in as .sh file
 
 Use chmod +x to give executable privileges
